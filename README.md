@@ -74,3 +74,5 @@ I used MS Excel to convert the data into GPS coordinates and calibrate the map b
 #### Calculating Centroids
 
 To calculate the centroids, first I installed Shapely which is a BSD-licensed Python package for manipulation and analysis of planar geometric objects.
+
+![Shapely.png](Shapely.png)
