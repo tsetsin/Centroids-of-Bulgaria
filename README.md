@@ -30,10 +30,9 @@ https://www.infograf.bg
 I put a lot of effort to find out some information about the GPS coordinates of the main points on district borders, but it was close to a total failure. After all I managed to find some maps in the https://github.com/yurukov/Bulgaria-geocoding, thanks to Boyan Yurukov's article https://yurukov.net/blog/2015/zemlishta/.
 There was no map of the Bulgarian districts there, but I came across the idea of looking for a vector image file, from which I can try to export the data I needed.
 I found .svg file, which seemed to work for me.
-<p align="center">
+
   ![Bulgaria.png](Bulgaria.png)
   (https://www.amcharts.com/svg-maps/?map=bulgaria)
-</p>
 
 The easiest way to export the data in .svg file is to open it with text editor as WordPad for example.
 The data looks similar to:
