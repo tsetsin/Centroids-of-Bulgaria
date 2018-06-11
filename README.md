@@ -76,3 +76,28 @@ I used MS Excel to convert the data into GPS coordinates and calibrate the map b
 To calculate the centroids, first I installed Shapely which is a BSD-licensed Python package for manipulation and analysis of planar geometric objects.
 
 ![Shapely.png](Shapely.png)
+
+#### Plotting the Final Results
+
+I used CorelDraw to put the dots on the exact location on the image.
+
+![Bulgaria_dots.png](Bulgaria_dots.png)
+
+### Future development
+
+There are a lot of different center points in the location intelligence studies which are still not applied on the Bulgarian map. It will be interesting to find them, analyse their movement over time (if applicable) and get a meaningful insights.
+
+The next goals in this study will be:
+
+* Economic center of gravity (GDP weighted)
+* Center of population (population weighted)
+* Geometric median - Fermat–Weber point or point of minimum aggregate travel
+
+### References
+
+1. Sumit Kumar Arora - Plotting Population Weighted Mean Centroids on a Country Map (https://medium.com/@sumit.arora/plotting-weighted-mean-population-centroids-on-a-country-map-22da408c1397)
+2. AmCharts - Free SVG Maps (https://www.amcharts.com/svg-maps/)
+3. Boyan Yurukov - Geocoding resources for Bulgaria (https://github.com/yurukov/Bulgaria-geocoding)
+4. W3Schools - SVG Paths (https://www.w3schools.com/graphics/svg_path.asp)
+5. StackExchange - Geographic Information Systems (https://gis.stackexchange.com/questions/29349/how-should-i-go-about-calculating-the-centroid-of-several-lat-long-points-in-pyt)
+6. Wikipedia - Center of mass (https://en.wikipedia.org/wiki/Center_of_mass#Center_of_gravity)
